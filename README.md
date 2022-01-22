@@ -2,6 +2,8 @@
 This is a end to end data science project where the flight fare has been predicted using Random Forest model.
 
 #Model Training
+
+
 1.The dataset was collected from kaggle (https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/) 
 2.This dataset contains 10 features and total 10,684 row
 3.Before training the model the dataset was pre processed
@@ -13,6 +15,8 @@ This is a end to end data science project where the flight fare has been predict
 7.The model was saved in a pickle file for the web app
 
 #Web app
+
+
 1.The Web application was created using Flask and the template was designed using html
 2.All the data was inputed through the webapp
 3.All these data were analysed using the machine learning model
