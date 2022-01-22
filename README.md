@@ -23,6 +23,7 @@ This is a end to end data science project where the flight fare has been predict
 7.The model was saved in a pickle file for the web app
 
 
+
 #Web app
 
 
