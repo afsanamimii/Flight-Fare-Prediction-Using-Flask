@@ -20,9 +20,9 @@ This is a end to end data science project where the flight fare has been predict
 
 8.After Hyper parameter tuning the R2 score was improves to 81.52%
 
-7.The model was saved in a pickle file for the web app
+9.The model was saved in a pickle file for the web app
 
-8. The pickle file can be found in this location(https://drive.google.com/file/d/16vgalYKox9xh_xz760VDMQX4INkEVRTu/view?usp=sharing)
+10.The pickle file can be found in this location(https://drive.google.com/file/d/16vgalYKox9xh_xz760VDMQX4INkEVRTu/view?usp=sharing)
 
 
 
