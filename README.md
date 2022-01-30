@@ -1,6 +1,16 @@
 # Flight-Fare-Prediction-Using-Flask
 This is a end to end data science project where the flight fare has been predicted using Random Forest model.
 
+
+
+#Demo
+
+
+![Screenshot (433)](https://user-images.githubusercontent.com/61627644/151691838-23817170-203a-4f6a-8d70-a4198bcbe7ef.png)
+
+![Screenshot (434)](https://user-images.githubusercontent.com/61627644/151691842-6ee24ed3-7b29-4530-af66-503057fc95fc.png)
+
+
 #Model Training
 
 
@@ -33,6 +43,8 @@ This is a end to end data science project where the flight fare has been predict
 1.The Web application was created using Flask and the template was designed using html
 
 2.All the data was inputed through the webapp
+
+
 
 3.All these data were analysed using the machine learning model
 
